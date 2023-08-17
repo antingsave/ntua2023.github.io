@@ -1,12 +1,13 @@
 @import url(fontawesome-all.min.css);
 
 :root{
-    --varcolor1: #272454;
-	--varcolor2: #2f2c3f;
-	--varcolor3: #181459;
-	--varcolor4: #050404;
+    --varcolor1: #1d1824;
+	--varcolor2: #2f2a3f;
+	--varcolor21:#b3383f;
+	--varcolor3: #000000;
+	--varcolor4: #120e1f;
 	--varcolor5: #feed91;
-	--varcolor6: #242146;--varcolor6-alt: #2f2a63;
+	--varcolor6: #291535;--varcolor6-alt: #58264c;
 }
 #sidebar a,a:hover, a:active, a:focus {
 	text-decoration: none;
@@ -3131,7 +3132,9 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-color: var(--varcolor2);
 		}
-
+		.wrapper.style11 {
+			background-color: var(--varcolor21);
+		}
 
 
 		.wrapper.style2 {
