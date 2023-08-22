@@ -3823,7 +3823,7 @@ a.menu-link { display: none;
   }
 	#home {
 		background-attachment: fixed;
-		background: url("../../images/bg.png");
+		background: url("../../images/bg.jpg");
 		background-size: cover;
 		background-position: top center;
 		background-repeat: no-repeat;
